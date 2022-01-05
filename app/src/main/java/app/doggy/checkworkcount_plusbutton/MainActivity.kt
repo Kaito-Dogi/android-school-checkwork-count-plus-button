@@ -1,8 +1,8 @@
-package app.myoji.nickname.checkworkcount_plusbutton
+package app.doggy.checkworkcount_plusbutton
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import app.myoji.nickname.checkworkcount_plusbutton.databinding.ActivityMainBinding
+import app.doggy.checkworkcount_plusbutton.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
